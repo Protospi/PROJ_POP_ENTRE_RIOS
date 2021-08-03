@@ -1,0 +1,1531 @@
+ano,idade,sexo,nascimento
+2003,Menos de 15 anos,Homem,4
+2003,15 a 19 anos,Homem,90
+2003,15 anos,Homem,11
+2003,16 anos,Homem,10
+2003,17 anos,Homem,16
+2003,18 anos,Homem,27
+2003,19 anos,Homem,26
+2003,20 a 24 anos,Homem,90
+2003,20 anos,Homem,26
+2003,21 anos,Homem,21
+2003,22 anos,Homem,12
+2003,23 anos,Homem,17
+2003,24 anos,Homem,14
+2003,25 a 29 anos,Homem,66
+2003,25 anos,Homem,21
+2003,26 anos,Homem,11
+2003,27 anos,Homem,12
+2003,28 anos,Homem,11
+2003,29 anos,Homem,11
+2003,30 a 34 anos,Homem,26
+2003,30 anos,Homem,6
+2003,31 anos,Homem,9
+2003,32 anos,Homem,6
+2003,33 anos,Homem,3
+2003,34 anos,Homem,2
+2003,35 a 39 anos,Homem,19
+2003,35 anos,Homem,4
+2003,36 anos,Homem,8
+2003,37 anos,Homem,1
+2003,38 anos,Homem,2
+2003,39 anos,Homem,4
+2003,40 a 44 anos,Homem,6
+2003,40 anos,Homem,2
+2003,41 anos,Homem,1
+2003,42 anos,Homem,1
+2003,43 anos,Homem,2
+2003,44 anos,Homem,
+2003,45 a 49 anos,Homem,
+2003,45 anos,Homem,
+2003,46 anos,Homem,
+2003,47 anos,Homem,
+2003,48 anos,Homem,
+2003,49 anos,Homem,
+2003,50 anos ou mais,Homem,
+2003,Ignorada,Homem,
+2003,Menos de 15 anos,Mulher,
+2003,15 a 19 anos,Mulher,80
+2003,15 anos,Mulher,7
+2003,16 anos,Mulher,14
+2003,17 anos,Mulher,15
+2003,18 anos,Mulher,25
+2003,19 anos,Mulher,19
+2003,20 a 24 anos,Mulher,101
+2003,20 anos,Mulher,23
+2003,21 anos,Mulher,23
+2003,22 anos,Mulher,23
+2003,23 anos,Mulher,18
+2003,24 anos,Mulher,14
+2003,25 a 29 anos,Mulher,53
+2003,25 anos,Mulher,9
+2003,26 anos,Mulher,10
+2003,27 anos,Mulher,16
+2003,28 anos,Mulher,10
+2003,29 anos,Mulher,8
+2003,30 a 34 anos,Mulher,34
+2003,30 anos,Mulher,12
+2003,31 anos,Mulher,6
+2003,32 anos,Mulher,7
+2003,33 anos,Mulher,4
+2003,34 anos,Mulher,5
+2003,35 a 39 anos,Mulher,19
+2003,35 anos,Mulher,3
+2003,36 anos,Mulher,3
+2003,37 anos,Mulher,3
+2003,38 anos,Mulher,6
+2003,39 anos,Mulher,4
+2003,40 a 44 anos,Mulher,6
+2003,40 anos,Mulher,3
+2003,41 anos,Mulher,
+2003,42 anos,Mulher,
+2003,43 anos,Mulher,2
+2003,44 anos,Mulher,1
+2003,45 a 49 anos,Mulher,
+2003,45 anos,Mulher,
+2003,46 anos,Mulher,
+2003,47 anos,Mulher,
+2003,48 anos,Mulher,
+2003,49 anos,Mulher,
+2003,50 anos ou mais,Mulher,
+2003,Ignorada,Mulher,
+2004,Menos de 15 anos,Homem,2
+2004,15 a 19 anos,Homem,91
+2004,15 anos,Homem,3
+2004,16 anos,Homem,17
+2004,17 anos,Homem,19
+2004,18 anos,Homem,28
+2004,19 anos,Homem,24
+2004,20 a 24 anos,Homem,96
+2004,20 anos,Homem,22
+2004,21 anos,Homem,22
+2004,22 anos,Homem,22
+2004,23 anos,Homem,16
+2004,24 anos,Homem,14
+2004,25 a 29 anos,Homem,69
+2004,25 anos,Homem,14
+2004,26 anos,Homem,15
+2004,27 anos,Homem,14
+2004,28 anos,Homem,11
+2004,29 anos,Homem,15
+2004,30 a 34 anos,Homem,35
+2004,30 anos,Homem,7
+2004,31 anos,Homem,7
+2004,32 anos,Homem,11
+2004,33 anos,Homem,3
+2004,34 anos,Homem,7
+2004,35 a 39 anos,Homem,16
+2004,35 anos,Homem,3
+2004,36 anos,Homem,4
+2004,37 anos,Homem,3
+2004,38 anos,Homem,3
+2004,39 anos,Homem,3
+2004,40 a 44 anos,Homem,2
+2004,40 anos,Homem,
+2004,41 anos,Homem,1
+2004,42 anos,Homem,
+2004,43 anos,Homem,
+2004,44 anos,Homem,1
+2004,45 a 49 anos,Homem,
+2004,45 anos,Homem,
+2004,46 anos,Homem,
+2004,47 anos,Homem,
+2004,48 anos,Homem,
+2004,49 anos,Homem,
+2004,50 anos ou mais,Homem,
+2004,Ignorada,Homem,
+2004,Menos de 15 anos,Mulher,8
+2004,15 a 19 anos,Mulher,77
+2004,15 anos,Mulher,7
+2004,16 anos,Mulher,14
+2004,17 anos,Mulher,15
+2004,18 anos,Mulher,11
+2004,19 anos,Mulher,30
+2004,20 a 24 anos,Mulher,105
+2004,20 anos,Mulher,32
+2004,21 anos,Mulher,18
+2004,22 anos,Mulher,22
+2004,23 anos,Mulher,17
+2004,24 anos,Mulher,16
+2004,25 a 29 anos,Mulher,61
+2004,25 anos,Mulher,16
+2004,26 anos,Mulher,14
+2004,27 anos,Mulher,11
+2004,28 anos,Mulher,12
+2004,29 anos,Mulher,8
+2004,30 a 34 anos,Mulher,37
+2004,30 anos,Mulher,13
+2004,31 anos,Mulher,8
+2004,32 anos,Mulher,7
+2004,33 anos,Mulher,6
+2004,34 anos,Mulher,3
+2004,35 a 39 anos,Mulher,12
+2004,35 anos,Mulher,3
+2004,36 anos,Mulher,3
+2004,37 anos,Mulher,4
+2004,38 anos,Mulher,1
+2004,39 anos,Mulher,1
+2004,40 a 44 anos,Mulher,7
+2004,40 anos,Mulher,5
+2004,41 anos,Mulher,2
+2004,42 anos,Mulher,
+2004,43 anos,Mulher,
+2004,44 anos,Mulher,
+2004,45 a 49 anos,Mulher,1
+2004,45 anos,Mulher,
+2004,46 anos,Mulher,
+2004,47 anos,Mulher,1
+2004,48 anos,Mulher,
+2004,49 anos,Mulher,
+2004,50 anos ou mais,Mulher,
+2004,Ignorada,Mulher,
+2005,Menos de 15 anos,Homem,6
+2005,15 a 19 anos,Homem,81
+2005,15 anos,Homem,7
+2005,16 anos,Homem,6
+2005,17 anos,Homem,18
+2005,18 anos,Homem,24
+2005,19 anos,Homem,26
+2005,20 a 24 anos,Homem,118
+2005,20 anos,Homem,33
+2005,21 anos,Homem,21
+2005,22 anos,Homem,27
+2005,23 anos,Homem,20
+2005,24 anos,Homem,17
+2005,25 a 29 anos,Homem,66
+2005,25 anos,Homem,23
+2005,26 anos,Homem,11
+2005,27 anos,Homem,18
+2005,28 anos,Homem,7
+2005,29 anos,Homem,7
+2005,30 a 34 anos,Homem,38
+2005,30 anos,Homem,12
+2005,31 anos,Homem,4
+2005,32 anos,Homem,9
+2005,33 anos,Homem,6
+2005,34 anos,Homem,7
+2005,35 a 39 anos,Homem,16
+2005,35 anos,Homem,8
+2005,36 anos,Homem,5
+2005,37 anos,Homem,2
+2005,38 anos,Homem,
+2005,39 anos,Homem,1
+2005,40 a 44 anos,Homem,4
+2005,40 anos,Homem,1
+2005,41 anos,Homem,2
+2005,42 anos,Homem,1
+2005,43 anos,Homem,
+2005,44 anos,Homem,
+2005,45 a 49 anos,Homem,
+2005,45 anos,Homem,
+2005,46 anos,Homem,
+2005,47 anos,Homem,
+2005,48 anos,Homem,
+2005,49 anos,Homem,
+2005,50 anos ou mais,Homem,
+2005,Ignorada,Homem,1
+2005,Menos de 15 anos,Mulher,6
+2005,15 a 19 anos,Mulher,76
+2005,15 anos,Mulher,9
+2005,16 anos,Mulher,7
+2005,17 anos,Mulher,18
+2005,18 anos,Mulher,19
+2005,19 anos,Mulher,23
+2005,20 a 24 anos,Mulher,125
+2005,20 anos,Mulher,37
+2005,21 anos,Mulher,22
+2005,22 anos,Mulher,25
+2005,23 anos,Mulher,24
+2005,24 anos,Mulher,17
+2005,25 a 29 anos,Mulher,73
+2005,25 anos,Mulher,16
+2005,26 anos,Mulher,17
+2005,27 anos,Mulher,7
+2005,28 anos,Mulher,16
+2005,29 anos,Mulher,17
+2005,30 a 34 anos,Mulher,27
+2005,30 anos,Mulher,10
+2005,31 anos,Mulher,3
+2005,32 anos,Mulher,
+2005,33 anos,Mulher,3
+2005,34 anos,Mulher,11
+2005,35 a 39 anos,Mulher,17
+2005,35 anos,Mulher,3
+2005,36 anos,Mulher,3
+2005,37 anos,Mulher,3
+2005,38 anos,Mulher,6
+2005,39 anos,Mulher,2
+2005,40 a 44 anos,Mulher,7
+2005,40 anos,Mulher,4
+2005,41 anos,Mulher,2
+2005,42 anos,Mulher,1
+2005,43 anos,Mulher,
+2005,44 anos,Mulher,
+2005,45 a 49 anos,Mulher,1
+2005,45 anos,Mulher,1
+2005,46 anos,Mulher,
+2005,47 anos,Mulher,
+2005,48 anos,Mulher,
+2005,49 anos,Mulher,
+2005,50 anos ou mais,Mulher,
+2005,Ignorada,Mulher,1
+2006,Menos de 15 anos,Homem,
+2006,15 a 19 anos,Homem,74
+2006,15 anos,Homem,11
+2006,16 anos,Homem,11
+2006,17 anos,Homem,12
+2006,18 anos,Homem,22
+2006,19 anos,Homem,18
+2006,20 a 24 anos,Homem,86
+2006,20 anos,Homem,21
+2006,21 anos,Homem,22
+2006,22 anos,Homem,14
+2006,23 anos,Homem,12
+2006,24 anos,Homem,17
+2006,25 a 29 anos,Homem,70
+2006,25 anos,Homem,10
+2006,26 anos,Homem,14
+2006,27 anos,Homem,15
+2006,28 anos,Homem,18
+2006,29 anos,Homem,13
+2006,30 a 34 anos,Homem,28
+2006,30 anos,Homem,7
+2006,31 anos,Homem,5
+2006,32 anos,Homem,5
+2006,33 anos,Homem,7
+2006,34 anos,Homem,4
+2006,35 a 39 anos,Homem,20
+2006,35 anos,Homem,4
+2006,36 anos,Homem,4
+2006,37 anos,Homem,7
+2006,38 anos,Homem,4
+2006,39 anos,Homem,1
+2006,40 a 44 anos,Homem,2
+2006,40 anos,Homem,1
+2006,41 anos,Homem,
+2006,42 anos,Homem,
+2006,43 anos,Homem,
+2006,44 anos,Homem,1
+2006,45 a 49 anos,Homem,
+2006,45 anos,Homem,
+2006,46 anos,Homem,
+2006,47 anos,Homem,
+2006,48 anos,Homem,
+2006,49 anos,Homem,
+2006,50 anos ou mais,Homem,
+2006,Ignorada,Homem,1
+2006,Menos de 15 anos,Mulher,6
+2006,15 a 19 anos,Mulher,83
+2006,15 anos,Mulher,9
+2006,16 anos,Mulher,11
+2006,17 anos,Mulher,15
+2006,18 anos,Mulher,22
+2006,19 anos,Mulher,26
+2006,20 a 24 anos,Mulher,85
+2006,20 anos,Mulher,24
+2006,21 anos,Mulher,14
+2006,22 anos,Mulher,19
+2006,23 anos,Mulher,13
+2006,24 anos,Mulher,15
+2006,25 a 29 anos,Mulher,55
+2006,25 anos,Mulher,16
+2006,26 anos,Mulher,8
+2006,27 anos,Mulher,12
+2006,28 anos,Mulher,13
+2006,29 anos,Mulher,6
+2006,30 a 34 anos,Mulher,31
+2006,30 anos,Mulher,7
+2006,31 anos,Mulher,5
+2006,32 anos,Mulher,8
+2006,33 anos,Mulher,5
+2006,34 anos,Mulher,6
+2006,35 a 39 anos,Mulher,12
+2006,35 anos,Mulher,2
+2006,36 anos,Mulher,4
+2006,37 anos,Mulher,
+2006,38 anos,Mulher,2
+2006,39 anos,Mulher,4
+2006,40 a 44 anos,Mulher,7
+2006,40 anos,Mulher,2
+2006,41 anos,Mulher,3
+2006,42 anos,Mulher,
+2006,43 anos,Mulher,1
+2006,44 anos,Mulher,1
+2006,45 a 49 anos,Mulher,
+2006,45 anos,Mulher,
+2006,46 anos,Mulher,
+2006,47 anos,Mulher,
+2006,48 anos,Mulher,
+2006,49 anos,Mulher,
+2006,50 anos ou mais,Mulher,
+2006,Ignorada,Mulher,1
+2007,Menos de 15 anos,Homem,4
+2007,15 a 19 anos,Homem,93
+2007,15 anos,Homem,7
+2007,16 anos,Homem,21
+2007,17 anos,Homem,23
+2007,18 anos,Homem,15
+2007,19 anos,Homem,27
+2007,20 a 24 anos,Homem,104
+2007,20 anos,Homem,27
+2007,21 anos,Homem,26
+2007,22 anos,Homem,15
+2007,23 anos,Homem,19
+2007,24 anos,Homem,17
+2007,25 a 29 anos,Homem,68
+2007,25 anos,Homem,16
+2007,26 anos,Homem,8
+2007,27 anos,Homem,16
+2007,28 anos,Homem,17
+2007,29 anos,Homem,11
+2007,30 a 34 anos,Homem,27
+2007,30 anos,Homem,8
+2007,31 anos,Homem,5
+2007,32 anos,Homem,2
+2007,33 anos,Homem,5
+2007,34 anos,Homem,7
+2007,35 a 39 anos,Homem,12
+2007,35 anos,Homem,3
+2007,36 anos,Homem,1
+2007,37 anos,Homem,2
+2007,38 anos,Homem,5
+2007,39 anos,Homem,1
+2007,40 a 44 anos,Homem,11
+2007,40 anos,Homem,4
+2007,41 anos,Homem,1
+2007,42 anos,Homem,2
+2007,43 anos,Homem,3
+2007,44 anos,Homem,1
+2007,45 a 49 anos,Homem,3
+2007,45 anos,Homem,3
+2007,46 anos,Homem,
+2007,47 anos,Homem,
+2007,48 anos,Homem,
+2007,49 anos,Homem,
+2007,50 anos ou mais,Homem,
+2007,Ignorada,Homem,
+2007,Menos de 15 anos,Mulher,4
+2007,15 a 19 anos,Mulher,84
+2007,15 anos,Mulher,8
+2007,16 anos,Mulher,10
+2007,17 anos,Mulher,17
+2007,18 anos,Mulher,27
+2007,19 anos,Mulher,22
+2007,20 a 24 anos,Mulher,102
+2007,20 anos,Mulher,20
+2007,21 anos,Mulher,22
+2007,22 anos,Mulher,23
+2007,23 anos,Mulher,23
+2007,24 anos,Mulher,14
+2007,25 a 29 anos,Mulher,66
+2007,25 anos,Mulher,18
+2007,26 anos,Mulher,14
+2007,27 anos,Mulher,15
+2007,28 anos,Mulher,11
+2007,29 anos,Mulher,8
+2007,30 a 34 anos,Mulher,31
+2007,30 anos,Mulher,8
+2007,31 anos,Mulher,5
+2007,32 anos,Mulher,8
+2007,33 anos,Mulher,3
+2007,34 anos,Mulher,7
+2007,35 a 39 anos,Mulher,15
+2007,35 anos,Mulher,3
+2007,36 anos,Mulher,5
+2007,37 anos,Mulher,2
+2007,38 anos,Mulher,3
+2007,39 anos,Mulher,2
+2007,40 a 44 anos,Mulher,3
+2007,40 anos,Mulher,
+2007,41 anos,Mulher,
+2007,42 anos,Mulher,2
+2007,43 anos,Mulher,1
+2007,44 anos,Mulher,
+2007,45 a 49 anos,Mulher,
+2007,45 anos,Mulher,
+2007,46 anos,Mulher,
+2007,47 anos,Mulher,
+2007,48 anos,Mulher,
+2007,49 anos,Mulher,
+2007,50 anos ou mais,Mulher,
+2007,Ignorada,Mulher,
+2008,Menos de 15 anos,Homem,2
+2008,15 a 19 anos,Homem,66
+2008,15 anos,Homem,6
+2008,16 anos,Homem,13
+2008,17 anos,Homem,11
+2008,18 anos,Homem,20
+2008,19 anos,Homem,16
+2008,20 a 24 anos,Homem,102
+2008,20 anos,Homem,23
+2008,21 anos,Homem,26
+2008,22 anos,Homem,16
+2008,23 anos,Homem,21
+2008,24 anos,Homem,16
+2008,25 a 29 anos,Homem,67
+2008,25 anos,Homem,20
+2008,26 anos,Homem,9
+2008,27 anos,Homem,10
+2008,28 anos,Homem,12
+2008,29 anos,Homem,16
+2008,30 a 34 anos,Homem,33
+2008,30 anos,Homem,4
+2008,31 anos,Homem,10
+2008,32 anos,Homem,8
+2008,33 anos,Homem,6
+2008,34 anos,Homem,5
+2008,35 a 39 anos,Homem,10
+2008,35 anos,Homem,1
+2008,36 anos,Homem,6
+2008,37 anos,Homem,2
+2008,38 anos,Homem,
+2008,39 anos,Homem,1
+2008,40 a 44 anos,Homem,8
+2008,40 anos,Homem,2
+2008,41 anos,Homem,2
+2008,42 anos,Homem,2
+2008,43 anos,Homem,1
+2008,44 anos,Homem,1
+2008,45 a 49 anos,Homem,1
+2008,45 anos,Homem,
+2008,46 anos,Homem,
+2008,47 anos,Homem,1
+2008,48 anos,Homem,
+2008,49 anos,Homem,
+2008,50 anos ou mais,Homem,1
+2008,Ignorada,Homem,
+2008,Menos de 15 anos,Mulher,3
+2008,15 a 19 anos,Mulher,50
+2008,15 anos,Mulher,4
+2008,16 anos,Mulher,10
+2008,17 anos,Mulher,10
+2008,18 anos,Mulher,14
+2008,19 anos,Mulher,12
+2008,20 a 24 anos,Mulher,93
+2008,20 anos,Mulher,18
+2008,21 anos,Mulher,17
+2008,22 anos,Mulher,21
+2008,23 anos,Mulher,26
+2008,24 anos,Mulher,11
+2008,25 a 29 anos,Mulher,62
+2008,25 anos,Mulher,15
+2008,26 anos,Mulher,11
+2008,27 anos,Mulher,14
+2008,28 anos,Mulher,14
+2008,29 anos,Mulher,8
+2008,30 a 34 anos,Mulher,36
+2008,30 anos,Mulher,7
+2008,31 anos,Mulher,13
+2008,32 anos,Mulher,7
+2008,33 anos,Mulher,6
+2008,34 anos,Mulher,3
+2008,35 a 39 anos,Mulher,18
+2008,35 anos,Mulher,4
+2008,36 anos,Mulher,3
+2008,37 anos,Mulher,6
+2008,38 anos,Mulher,3
+2008,39 anos,Mulher,2
+2008,40 a 44 anos,Mulher,14
+2008,40 anos,Mulher,5
+2008,41 anos,Mulher,2
+2008,42 anos,Mulher,2
+2008,43 anos,Mulher,2
+2008,44 anos,Mulher,3
+2008,45 a 49 anos,Mulher,1
+2008,45 anos,Mulher,
+2008,46 anos,Mulher,1
+2008,47 anos,Mulher,
+2008,48 anos,Mulher,
+2008,49 anos,Mulher,
+2008,50 anos ou mais,Mulher,
+2008,Ignorada,Mulher,
+2009,Menos de 15 anos,Homem,3
+2009,15 a 19 anos,Homem,74
+2009,15 anos,Homem,6
+2009,16 anos,Homem,9
+2009,17 anos,Homem,10
+2009,18 anos,Homem,27
+2009,19 anos,Homem,22
+2009,20 a 24 anos,Homem,74
+2009,20 anos,Homem,15
+2009,21 anos,Homem,19
+2009,22 anos,Homem,14
+2009,23 anos,Homem,17
+2009,24 anos,Homem,9
+2009,25 a 29 anos,Homem,62
+2009,25 anos,Homem,14
+2009,26 anos,Homem,21
+2009,27 anos,Homem,8
+2009,28 anos,Homem,8
+2009,29 anos,Homem,11
+2009,30 a 34 anos,Homem,30
+2009,30 anos,Homem,6
+2009,31 anos,Homem,7
+2009,32 anos,Homem,6
+2009,33 anos,Homem,6
+2009,34 anos,Homem,5
+2009,35 a 39 anos,Homem,13
+2009,35 anos,Homem,1
+2009,36 anos,Homem,6
+2009,37 anos,Homem,3
+2009,38 anos,Homem,2
+2009,39 anos,Homem,1
+2009,40 a 44 anos,Homem,5
+2009,40 anos,Homem,2
+2009,41 anos,Homem,1
+2009,42 anos,Homem,1
+2009,43 anos,Homem,1
+2009,44 anos,Homem,
+2009,45 a 49 anos,Homem,
+2009,45 anos,Homem,
+2009,46 anos,Homem,
+2009,47 anos,Homem,
+2009,48 anos,Homem,
+2009,49 anos,Homem,
+2009,50 anos ou mais,Homem,
+2009,Ignorada,Homem,1
+2009,Menos de 15 anos,Mulher,6
+2009,15 a 19 anos,Mulher,63
+2009,15 anos,Mulher,8
+2009,16 anos,Mulher,9
+2009,17 anos,Mulher,8
+2009,18 anos,Mulher,22
+2009,19 anos,Mulher,16
+2009,20 a 24 anos,Mulher,109
+2009,20 anos,Mulher,21
+2009,21 anos,Mulher,29
+2009,22 anos,Mulher,16
+2009,23 anos,Mulher,29
+2009,24 anos,Mulher,14
+2009,25 a 29 anos,Mulher,56
+2009,25 anos,Mulher,9
+2009,26 anos,Mulher,15
+2009,27 anos,Mulher,10
+2009,28 anos,Mulher,14
+2009,29 anos,Mulher,8
+2009,30 a 34 anos,Mulher,34
+2009,30 anos,Mulher,11
+2009,31 anos,Mulher,7
+2009,32 anos,Mulher,8
+2009,33 anos,Mulher,4
+2009,34 anos,Mulher,4
+2009,35 a 39 anos,Mulher,16
+2009,35 anos,Mulher,4
+2009,36 anos,Mulher,1
+2009,37 anos,Mulher,4
+2009,38 anos,Mulher,5
+2009,39 anos,Mulher,2
+2009,40 a 44 anos,Mulher,9
+2009,40 anos,Mulher,1
+2009,41 anos,Mulher,2
+2009,42 anos,Mulher,2
+2009,43 anos,Mulher,3
+2009,44 anos,Mulher,1
+2009,45 a 49 anos,Mulher,
+2009,45 anos,Mulher,
+2009,46 anos,Mulher,
+2009,47 anos,Mulher,
+2009,48 anos,Mulher,
+2009,49 anos,Mulher,
+2009,50 anos ou mais,Mulher,
+2009,Ignorada,Mulher,
+2010,Menos de 15 anos,Homem,3
+2010,15 a 19 anos,Homem,58
+2010,15 anos,Homem,7
+2010,16 anos,Homem,12
+2010,17 anos,Homem,15
+2010,18 anos,Homem,13
+2010,19 anos,Homem,11
+2010,20 a 24 anos,Homem,76
+2010,20 anos,Homem,17
+2010,21 anos,Homem,12
+2010,22 anos,Homem,15
+2010,23 anos,Homem,19
+2010,24 anos,Homem,13
+2010,25 a 29 anos,Homem,57
+2010,25 anos,Homem,14
+2010,26 anos,Homem,11
+2010,27 anos,Homem,14
+2010,28 anos,Homem,8
+2010,29 anos,Homem,10
+2010,30 a 34 anos,Homem,35
+2010,30 anos,Homem,9
+2010,31 anos,Homem,7
+2010,32 anos,Homem,7
+2010,33 anos,Homem,9
+2010,34 anos,Homem,3
+2010,35 a 39 anos,Homem,16
+2010,35 anos,Homem,7
+2010,36 anos,Homem,3
+2010,37 anos,Homem,2
+2010,38 anos,Homem,3
+2010,39 anos,Homem,1
+2010,40 a 44 anos,Homem,6
+2010,40 anos,Homem,
+2010,41 anos,Homem,2
+2010,42 anos,Homem,
+2010,43 anos,Homem,4
+2010,44 anos,Homem,
+2010,45 a 49 anos,Homem,
+2010,45 anos,Homem,
+2010,46 anos,Homem,
+2010,47 anos,Homem,
+2010,48 anos,Homem,
+2010,49 anos,Homem,
+2010,50 anos ou mais,Homem,
+2010,Ignorada,Homem,4
+2010,Menos de 15 anos,Mulher,1
+2010,15 a 19 anos,Mulher,59
+2010,15 anos,Mulher,9
+2010,16 anos,Mulher,5
+2010,17 anos,Mulher,18
+2010,18 anos,Mulher,14
+2010,19 anos,Mulher,13
+2010,20 a 24 anos,Mulher,69
+2010,20 anos,Mulher,15
+2010,21 anos,Mulher,10
+2010,22 anos,Mulher,11
+2010,23 anos,Mulher,17
+2010,24 anos,Mulher,16
+2010,25 a 29 anos,Mulher,59
+2010,25 anos,Mulher,12
+2010,26 anos,Mulher,9
+2010,27 anos,Mulher,17
+2010,28 anos,Mulher,10
+2010,29 anos,Mulher,11
+2010,30 a 34 anos,Mulher,38
+2010,30 anos,Mulher,4
+2010,31 anos,Mulher,13
+2010,32 anos,Mulher,7
+2010,33 anos,Mulher,11
+2010,34 anos,Mulher,3
+2010,35 a 39 anos,Mulher,8
+2010,35 anos,Mulher,3
+2010,36 anos,Mulher,
+2010,37 anos,Mulher,1
+2010,38 anos,Mulher,3
+2010,39 anos,Mulher,1
+2010,40 a 44 anos,Mulher,2
+2010,40 anos,Mulher,1
+2010,41 anos,Mulher,
+2010,42 anos,Mulher,
+2010,43 anos,Mulher,1
+2010,44 anos,Mulher,
+2010,45 a 49 anos,Mulher,
+2010,45 anos,Mulher,
+2010,46 anos,Mulher,
+2010,47 anos,Mulher,
+2010,48 anos,Mulher,
+2010,49 anos,Mulher,
+2010,50 anos ou mais,Mulher,
+2010,Ignorada,Mulher,2
+2011,Menos de 15 anos,Homem,5
+2011,15 a 19 anos,Homem,51
+2011,15 anos,Homem,6
+2011,16 anos,Homem,10
+2011,17 anos,Homem,10
+2011,18 anos,Homem,13
+2011,19 anos,Homem,12
+2011,20 a 24 anos,Homem,94
+2011,20 anos,Homem,16
+2011,21 anos,Homem,21
+2011,22 anos,Homem,27
+2011,23 anos,Homem,16
+2011,24 anos,Homem,14
+2011,25 a 29 anos,Homem,66
+2011,25 anos,Homem,11
+2011,26 anos,Homem,17
+2011,27 anos,Homem,13
+2011,28 anos,Homem,12
+2011,29 anos,Homem,13
+2011,30 a 34 anos,Homem,29
+2011,30 anos,Homem,8
+2011,31 anos,Homem,5
+2011,32 anos,Homem,4
+2011,33 anos,Homem,9
+2011,34 anos,Homem,3
+2011,35 a 39 anos,Homem,10
+2011,35 anos,Homem,1
+2011,36 anos,Homem,4
+2011,37 anos,Homem,2
+2011,38 anos,Homem,2
+2011,39 anos,Homem,1
+2011,40 a 44 anos,Homem,6
+2011,40 anos,Homem,4
+2011,41 anos,Homem,
+2011,42 anos,Homem,1
+2011,43 anos,Homem,
+2011,44 anos,Homem,1
+2011,45 a 49 anos,Homem,
+2011,45 anos,Homem,
+2011,46 anos,Homem,
+2011,47 anos,Homem,
+2011,48 anos,Homem,
+2011,49 anos,Homem,
+2011,50 anos ou mais,Homem,
+2011,Ignorada,Homem,
+2011,Menos de 15 anos,Mulher,3
+2011,15 a 19 anos,Mulher,61
+2011,15 anos,Mulher,9
+2011,16 anos,Mulher,7
+2011,17 anos,Mulher,17
+2011,18 anos,Mulher,14
+2011,19 anos,Mulher,14
+2011,20 a 24 anos,Mulher,68
+2011,20 anos,Mulher,16
+2011,21 anos,Mulher,13
+2011,22 anos,Mulher,17
+2011,23 anos,Mulher,11
+2011,24 anos,Mulher,11
+2011,25 a 29 anos,Mulher,53
+2011,25 anos,Mulher,14
+2011,26 anos,Mulher,24
+2011,27 anos,Mulher,5
+2011,28 anos,Mulher,3
+2011,29 anos,Mulher,7
+2011,30 a 34 anos,Mulher,42
+2011,30 anos,Mulher,16
+2011,31 anos,Mulher,6
+2011,32 anos,Mulher,7
+2011,33 anos,Mulher,8
+2011,34 anos,Mulher,5
+2011,35 a 39 anos,Mulher,8
+2011,35 anos,Mulher,3
+2011,36 anos,Mulher,2
+2011,37 anos,Mulher,
+2011,38 anos,Mulher,2
+2011,39 anos,Mulher,1
+2011,40 a 44 anos,Mulher,4
+2011,40 anos,Mulher,2
+2011,41 anos,Mulher,1
+2011,42 anos,Mulher,
+2011,43 anos,Mulher,1
+2011,44 anos,Mulher,
+2011,45 a 49 anos,Mulher,
+2011,45 anos,Mulher,
+2011,46 anos,Mulher,
+2011,47 anos,Mulher,
+2011,48 anos,Mulher,
+2011,49 anos,Mulher,
+2011,50 anos ou mais,Mulher,
+2011,Ignorada,Mulher,3
+2012,Menos de 15 anos,Homem,2
+2012,15 a 19 anos,Homem,80
+2012,15 anos,Homem,10
+2012,16 anos,Homem,13
+2012,17 anos,Homem,18
+2012,18 anos,Homem,18
+2012,19 anos,Homem,21
+2012,20 a 24 anos,Homem,83
+2012,20 anos,Homem,18
+2012,21 anos,Homem,19
+2012,22 anos,Homem,18
+2012,23 anos,Homem,17
+2012,24 anos,Homem,11
+2012,25 a 29 anos,Homem,64
+2012,25 anos,Homem,15
+2012,26 anos,Homem,17
+2012,27 anos,Homem,6
+2012,28 anos,Homem,11
+2012,29 anos,Homem,15
+2012,30 a 34 anos,Homem,37
+2012,30 anos,Homem,10
+2012,31 anos,Homem,4
+2012,32 anos,Homem,13
+2012,33 anos,Homem,6
+2012,34 anos,Homem,4
+2012,35 a 39 anos,Homem,14
+2012,35 anos,Homem,7
+2012,36 anos,Homem,3
+2012,37 anos,Homem,1
+2012,38 anos,Homem,3
+2012,39 anos,Homem,
+2012,40 a 44 anos,Homem,3
+2012,40 anos,Homem,3
+2012,41 anos,Homem,
+2012,42 anos,Homem,
+2012,43 anos,Homem,
+2012,44 anos,Homem,
+2012,45 a 49 anos,Homem,
+2012,45 anos,Homem,
+2012,46 anos,Homem,
+2012,47 anos,Homem,
+2012,48 anos,Homem,
+2012,49 anos,Homem,
+2012,50 anos ou mais,Homem,
+2012,Ignorada,Homem,4
+2012,Menos de 15 anos,Mulher,5
+2012,15 a 19 anos,Mulher,67
+2012,15 anos,Mulher,9
+2012,16 anos,Mulher,11
+2012,17 anos,Mulher,13
+2012,18 anos,Mulher,17
+2012,19 anos,Mulher,17
+2012,20 a 24 anos,Mulher,77
+2012,20 anos,Mulher,19
+2012,21 anos,Mulher,17
+2012,22 anos,Mulher,9
+2012,23 anos,Mulher,16
+2012,24 anos,Mulher,16
+2012,25 a 29 anos,Mulher,76
+2012,25 anos,Mulher,15
+2012,26 anos,Mulher,12
+2012,27 anos,Mulher,14
+2012,28 anos,Mulher,20
+2012,29 anos,Mulher,15
+2012,30 a 34 anos,Mulher,29
+2012,30 anos,Mulher,11
+2012,31 anos,Mulher,5
+2012,32 anos,Mulher,5
+2012,33 anos,Mulher,5
+2012,34 anos,Mulher,3
+2012,35 a 39 anos,Mulher,19
+2012,35 anos,Mulher,4
+2012,36 anos,Mulher,3
+2012,37 anos,Mulher,3
+2012,38 anos,Mulher,4
+2012,39 anos,Mulher,5
+2012,40 a 44 anos,Mulher,4
+2012,40 anos,Mulher,2
+2012,41 anos,Mulher,
+2012,42 anos,Mulher,
+2012,43 anos,Mulher,2
+2012,44 anos,Mulher,
+2012,45 a 49 anos,Mulher,3
+2012,45 anos,Mulher,2
+2012,46 anos,Mulher,1
+2012,47 anos,Mulher,
+2012,48 anos,Mulher,
+2012,49 anos,Mulher,
+2012,50 anos ou mais,Mulher,
+2012,Ignorada,Mulher,
+2013,Menos de 15 anos,Homem,7
+2013,15 a 19 anos,Homem,71
+2013,15 anos,Homem,10
+2013,16 anos,Homem,8
+2013,17 anos,Homem,17
+2013,18 anos,Homem,17
+2013,19 anos,Homem,19
+2013,20 a 24 anos,Homem,81
+2013,20 anos,Homem,21
+2013,21 anos,Homem,14
+2013,22 anos,Homem,13
+2013,23 anos,Homem,19
+2013,24 anos,Homem,14
+2013,25 a 29 anos,Homem,64
+2013,25 anos,Homem,16
+2013,26 anos,Homem,13
+2013,27 anos,Homem,11
+2013,28 anos,Homem,13
+2013,29 anos,Homem,11
+2013,30 a 34 anos,Homem,40
+2013,30 anos,Homem,10
+2013,31 anos,Homem,9
+2013,32 anos,Homem,7
+2013,33 anos,Homem,11
+2013,34 anos,Homem,3
+2013,35 a 39 anos,Homem,20
+2013,35 anos,Homem,6
+2013,36 anos,Homem,3
+2013,37 anos,Homem,7
+2013,38 anos,Homem,4
+2013,39 anos,Homem,
+2013,40 a 44 anos,Homem,3
+2013,40 anos,Homem,1
+2013,41 anos,Homem,1
+2013,42 anos,Homem,1
+2013,43 anos,Homem,
+2013,44 anos,Homem,
+2013,45 a 49 anos,Homem,
+2013,45 anos,Homem,
+2013,46 anos,Homem,
+2013,47 anos,Homem,
+2013,48 anos,Homem,
+2013,49 anos,Homem,
+2013,50 anos ou mais,Homem,
+2013,Ignorada,Homem,1
+2013,Menos de 15 anos,Mulher,4
+2013,15 a 19 anos,Mulher,67
+2013,15 anos,Mulher,8
+2013,16 anos,Mulher,10
+2013,17 anos,Mulher,15
+2013,18 anos,Mulher,19
+2013,19 anos,Mulher,15
+2013,20 a 24 anos,Mulher,64
+2013,20 anos,Mulher,14
+2013,21 anos,Mulher,12
+2013,22 anos,Mulher,8
+2013,23 anos,Mulher,19
+2013,24 anos,Mulher,11
+2013,25 a 29 anos,Mulher,76
+2013,25 anos,Mulher,12
+2013,26 anos,Mulher,12
+2013,27 anos,Mulher,20
+2013,28 anos,Mulher,17
+2013,29 anos,Mulher,15
+2013,30 a 34 anos,Mulher,42
+2013,30 anos,Mulher,10
+2013,31 anos,Mulher,11
+2013,32 anos,Mulher,6
+2013,33 anos,Mulher,9
+2013,34 anos,Mulher,6
+2013,35 a 39 anos,Mulher,22
+2013,35 anos,Mulher,10
+2013,36 anos,Mulher,5
+2013,37 anos,Mulher,4
+2013,38 anos,Mulher,2
+2013,39 anos,Mulher,1
+2013,40 a 44 anos,Mulher,5
+2013,40 anos,Mulher,3
+2013,41 anos,Mulher,
+2013,42 anos,Mulher,1
+2013,43 anos,Mulher,1
+2013,44 anos,Mulher,
+2013,45 a 49 anos,Mulher,
+2013,45 anos,Mulher,
+2013,46 anos,Mulher,
+2013,47 anos,Mulher,
+2013,48 anos,Mulher,
+2013,49 anos,Mulher,
+2013,50 anos ou mais,Mulher,
+2013,Ignorada,Mulher,
+2014,Menos de 15 anos,Homem,3
+2014,15 a 19 anos,Homem,62
+2014,15 anos,Homem,6
+2014,16 anos,Homem,14
+2014,17 anos,Homem,10
+2014,18 anos,Homem,18
+2014,19 anos,Homem,14
+2014,20 a 24 anos,Homem,63
+2014,20 anos,Homem,9
+2014,21 anos,Homem,18
+2014,22 anos,Homem,14
+2014,23 anos,Homem,10
+2014,24 anos,Homem,12
+2014,25 a 29 anos,Homem,59
+2014,25 anos,Homem,9
+2014,26 anos,Homem,20
+2014,27 anos,Homem,11
+2014,28 anos,Homem,9
+2014,29 anos,Homem,10
+2014,30 a 34 anos,Homem,38
+2014,30 anos,Homem,7
+2014,31 anos,Homem,8
+2014,32 anos,Homem,8
+2014,33 anos,Homem,7
+2014,34 anos,Homem,8
+2014,35 a 39 anos,Homem,19
+2014,35 anos,Homem,5
+2014,36 anos,Homem,4
+2014,37 anos,Homem,4
+2014,38 anos,Homem,4
+2014,39 anos,Homem,2
+2014,40 a 44 anos,Homem,8
+2014,40 anos,Homem,2
+2014,41 anos,Homem,1
+2014,42 anos,Homem,2
+2014,43 anos,Homem,1
+2014,44 anos,Homem,2
+2014,45 a 49 anos,Homem,
+2014,45 anos,Homem,
+2014,46 anos,Homem,
+2014,47 anos,Homem,
+2014,48 anos,Homem,
+2014,49 anos,Homem,
+2014,50 anos ou mais,Homem,
+2014,Ignorada,Homem,
+2014,Menos de 15 anos,Mulher,3
+2014,15 a 19 anos,Mulher,65
+2014,15 anos,Mulher,6
+2014,16 anos,Mulher,13
+2014,17 anos,Mulher,8
+2014,18 anos,Mulher,20
+2014,19 anos,Mulher,18
+2014,20 a 24 anos,Mulher,79
+2014,20 anos,Mulher,16
+2014,21 anos,Mulher,17
+2014,22 anos,Mulher,20
+2014,23 anos,Mulher,17
+2014,24 anos,Mulher,9
+2014,25 a 29 anos,Mulher,61
+2014,25 anos,Mulher,13
+2014,26 anos,Mulher,13
+2014,27 anos,Mulher,15
+2014,28 anos,Mulher,9
+2014,29 anos,Mulher,11
+2014,30 a 34 anos,Mulher,37
+2014,30 anos,Mulher,8
+2014,31 anos,Mulher,9
+2014,32 anos,Mulher,10
+2014,33 anos,Mulher,6
+2014,34 anos,Mulher,4
+2014,35 a 39 anos,Mulher,6
+2014,35 anos,Mulher,1
+2014,36 anos,Mulher,2
+2014,37 anos,Mulher,2
+2014,38 anos,Mulher,
+2014,39 anos,Mulher,1
+2014,40 a 44 anos,Mulher,1
+2014,40 anos,Mulher,1
+2014,41 anos,Mulher,
+2014,42 anos,Mulher,
+2014,43 anos,Mulher,
+2014,44 anos,Mulher,
+2014,45 a 49 anos,Mulher,
+2014,45 anos,Mulher,
+2014,46 anos,Mulher,
+2014,47 anos,Mulher,
+2014,48 anos,Mulher,
+2014,49 anos,Mulher,
+2014,50 anos ou mais,Mulher,
+2014,Ignorada,Mulher,
+2015,Menos de 15 anos,Homem,5
+2015,15 a 19 anos,Homem,57
+2015,15 anos,Homem,5
+2015,16 anos,Homem,12
+2015,17 anos,Homem,13
+2015,18 anos,Homem,15
+2015,19 anos,Homem,12
+2015,20 a 24 anos,Homem,67
+2015,20 anos,Homem,13
+2015,21 anos,Homem,15
+2015,22 anos,Homem,16
+2015,23 anos,Homem,12
+2015,24 anos,Homem,11
+2015,25 a 29 anos,Homem,49
+2015,25 anos,Homem,9
+2015,26 anos,Homem,7
+2015,27 anos,Homem,18
+2015,28 anos,Homem,9
+2015,29 anos,Homem,6
+2015,30 a 34 anos,Homem,42
+2015,30 anos,Homem,15
+2015,31 anos,Homem,4
+2015,32 anos,Homem,14
+2015,33 anos,Homem,4
+2015,34 anos,Homem,5
+2015,35 a 39 anos,Homem,21
+2015,35 anos,Homem,7
+2015,36 anos,Homem,5
+2015,37 anos,Homem,7
+2015,38 anos,Homem,
+2015,39 anos,Homem,2
+2015,40 a 44 anos,Homem,3
+2015,40 anos,Homem,1
+2015,41 anos,Homem,1
+2015,42 anos,Homem,1
+2015,43 anos,Homem,
+2015,44 anos,Homem,
+2015,45 a 49 anos,Homem,
+2015,45 anos,Homem,
+2015,46 anos,Homem,
+2015,47 anos,Homem,
+2015,48 anos,Homem,
+2015,49 anos,Homem,
+2015,50 anos ou mais,Homem,
+2015,Ignorada,Homem,
+2015,Menos de 15 anos,Mulher,3
+2015,15 a 19 anos,Mulher,48
+2015,15 anos,Mulher,5
+2015,16 anos,Mulher,10
+2015,17 anos,Mulher,7
+2015,18 anos,Mulher,16
+2015,19 anos,Mulher,10
+2015,20 a 24 anos,Mulher,63
+2015,20 anos,Mulher,19
+2015,21 anos,Mulher,10
+2015,22 anos,Mulher,14
+2015,23 anos,Mulher,7
+2015,24 anos,Mulher,13
+2015,25 a 29 anos,Mulher,54
+2015,25 anos,Mulher,12
+2015,26 anos,Mulher,10
+2015,27 anos,Mulher,14
+2015,28 anos,Mulher,10
+2015,29 anos,Mulher,8
+2015,30 a 34 anos,Mulher,41
+2015,30 anos,Mulher,11
+2015,31 anos,Mulher,7
+2015,32 anos,Mulher,9
+2015,33 anos,Mulher,9
+2015,34 anos,Mulher,5
+2015,35 a 39 anos,Mulher,11
+2015,35 anos,Mulher,2
+2015,36 anos,Mulher,1
+2015,37 anos,Mulher,1
+2015,38 anos,Mulher,3
+2015,39 anos,Mulher,4
+2015,40 a 44 anos,Mulher,6
+2015,40 anos,Mulher,3
+2015,41 anos,Mulher,1
+2015,42 anos,Mulher,2
+2015,43 anos,Mulher,
+2015,44 anos,Mulher,
+2015,45 a 49 anos,Mulher,
+2015,45 anos,Mulher,
+2015,46 anos,Mulher,
+2015,47 anos,Mulher,
+2015,48 anos,Mulher,
+2015,49 anos,Mulher,
+2015,50 anos ou mais,Mulher,
+2015,Ignorada,Mulher,
+2016,Menos de 15 anos,Homem,3
+2016,15 a 19 anos,Homem,58
+2016,15 anos,Homem,6
+2016,16 anos,Homem,7
+2016,17 anos,Homem,18
+2016,18 anos,Homem,12
+2016,19 anos,Homem,15
+2016,20 a 24 anos,Homem,58
+2016,20 anos,Homem,9
+2016,21 anos,Homem,12
+2016,22 anos,Homem,14
+2016,23 anos,Homem,15
+2016,24 anos,Homem,8
+2016,25 a 29 anos,Homem,48
+2016,25 anos,Homem,15
+2016,26 anos,Homem,10
+2016,27 anos,Homem,4
+2016,28 anos,Homem,11
+2016,29 anos,Homem,8
+2016,30 a 34 anos,Homem,32
+2016,30 anos,Homem,8
+2016,31 anos,Homem,9
+2016,32 anos,Homem,7
+2016,33 anos,Homem,3
+2016,34 anos,Homem,5
+2016,35 a 39 anos,Homem,23
+2016,35 anos,Homem,3
+2016,36 anos,Homem,8
+2016,37 anos,Homem,8
+2016,38 anos,Homem,2
+2016,39 anos,Homem,2
+2016,40 a 44 anos,Homem,5
+2016,40 anos,Homem,1
+2016,41 anos,Homem,2
+2016,42 anos,Homem,1
+2016,43 anos,Homem,1
+2016,44 anos,Homem,
+2016,45 a 49 anos,Homem,1
+2016,45 anos,Homem,1
+2016,46 anos,Homem,
+2016,47 anos,Homem,
+2016,48 anos,Homem,
+2016,49 anos,Homem,
+2016,50 anos ou mais,Homem,
+2016,Ignorada,Homem,1
+2016,Menos de 15 anos,Mulher,5
+2016,15 a 19 anos,Mulher,52
+2016,15 anos,Mulher,6
+2016,16 anos,Mulher,11
+2016,17 anos,Mulher,10
+2016,18 anos,Mulher,12
+2016,19 anos,Mulher,13
+2016,20 a 24 anos,Mulher,62
+2016,20 anos,Mulher,12
+2016,21 anos,Mulher,15
+2016,22 anos,Mulher,10
+2016,23 anos,Mulher,16
+2016,24 anos,Mulher,9
+2016,25 a 29 anos,Mulher,41
+2016,25 anos,Mulher,7
+2016,26 anos,Mulher,11
+2016,27 anos,Mulher,8
+2016,28 anos,Mulher,5
+2016,29 anos,Mulher,10
+2016,30 a 34 anos,Mulher,33
+2016,30 anos,Mulher,6
+2016,31 anos,Mulher,9
+2016,32 anos,Mulher,6
+2016,33 anos,Mulher,6
+2016,34 anos,Mulher,6
+2016,35 a 39 anos,Mulher,18
+2016,35 anos,Mulher,4
+2016,36 anos,Mulher,6
+2016,37 anos,Mulher,1
+2016,38 anos,Mulher,3
+2016,39 anos,Mulher,4
+2016,40 a 44 anos,Mulher,5
+2016,40 anos,Mulher,3
+2016,41 anos,Mulher,1
+2016,42 anos,Mulher,
+2016,43 anos,Mulher,1
+2016,44 anos,Mulher,
+2016,45 a 49 anos,Mulher,
+2016,45 anos,Mulher,
+2016,46 anos,Mulher,
+2016,47 anos,Mulher,
+2016,48 anos,Mulher,
+2016,49 anos,Mulher,
+2016,50 anos ou mais,Mulher,
+2016,Ignorada,Mulher,
+2017,Menos de 15 anos,Homem,5
+2017,15 a 19 anos,Homem,62
+2017,15 anos,Homem,4
+2017,16 anos,Homem,15
+2017,17 anos,Homem,10
+2017,18 anos,Homem,18
+2017,19 anos,Homem,15
+2017,20 a 24 anos,Homem,69
+2017,20 anos,Homem,9
+2017,21 anos,Homem,13
+2017,22 anos,Homem,21
+2017,23 anos,Homem,13
+2017,24 anos,Homem,13
+2017,25 a 29 anos,Homem,59
+2017,25 anos,Homem,17
+2017,26 anos,Homem,9
+2017,27 anos,Homem,9
+2017,28 anos,Homem,14
+2017,29 anos,Homem,10
+2017,30 a 34 anos,Homem,35
+2017,30 anos,Homem,7
+2017,31 anos,Homem,9
+2017,32 anos,Homem,10
+2017,33 anos,Homem,4
+2017,34 anos,Homem,5
+2017,35 a 39 anos,Homem,17
+2017,35 anos,Homem,4
+2017,36 anos,Homem,4
+2017,37 anos,Homem,4
+2017,38 anos,Homem,4
+2017,39 anos,Homem,1
+2017,40 a 44 anos,Homem,4
+2017,40 anos,Homem,
+2017,41 anos,Homem,2
+2017,42 anos,Homem,2
+2017,43 anos,Homem,
+2017,44 anos,Homem,
+2017,45 a 49 anos,Homem,
+2017,45 anos,Homem,
+2017,46 anos,Homem,
+2017,47 anos,Homem,
+2017,48 anos,Homem,
+2017,49 anos,Homem,
+2017,50 anos ou mais,Homem,
+2017,Ignorada,Homem,1
+2017,Menos de 15 anos,Mulher,4
+2017,15 a 19 anos,Mulher,62
+2017,15 anos,Mulher,6
+2017,16 anos,Mulher,12
+2017,17 anos,Mulher,13
+2017,18 anos,Mulher,19
+2017,19 anos,Mulher,12
+2017,20 a 24 anos,Mulher,61
+2017,20 anos,Mulher,11
+2017,21 anos,Mulher,5
+2017,22 anos,Mulher,16
+2017,23 anos,Mulher,16
+2017,24 anos,Mulher,13
+2017,25 a 29 anos,Mulher,50
+2017,25 anos,Mulher,18
+2017,26 anos,Mulher,7
+2017,27 anos,Mulher,9
+2017,28 anos,Mulher,9
+2017,29 anos,Mulher,7
+2017,30 a 34 anos,Mulher,37
+2017,30 anos,Mulher,13
+2017,31 anos,Mulher,4
+2017,32 anos,Mulher,8
+2017,33 anos,Mulher,7
+2017,34 anos,Mulher,5
+2017,35 a 39 anos,Mulher,14
+2017,35 anos,Mulher,
+2017,36 anos,Mulher,2
+2017,37 anos,Mulher,3
+2017,38 anos,Mulher,8
+2017,39 anos,Mulher,1
+2017,40 a 44 anos,Mulher,3
+2017,40 anos,Mulher,
+2017,41 anos,Mulher,1
+2017,42 anos,Mulher,1
+2017,43 anos,Mulher,1
+2017,44 anos,Mulher,
+2017,45 a 49 anos,Mulher,1
+2017,45 anos,Mulher,
+2017,46 anos,Mulher,1
+2017,47 anos,Mulher,
+2017,48 anos,Mulher,
+2017,49 anos,Mulher,
+2017,50 anos ou mais,Mulher,
+2017,Ignorada,Mulher,2
+2018,Menos de 15 anos,Homem,3
+2018,15 a 19 anos,Homem,49
+2018,15 anos,Homem,6
+2018,16 anos,Homem,6
+2018,17 anos,Homem,8
+2018,18 anos,Homem,11
+2018,19 anos,Homem,18
+2018,20 a 24 anos,Homem,68
+2018,20 anos,Homem,13
+2018,21 anos,Homem,16
+2018,22 anos,Homem,13
+2018,23 anos,Homem,6
+2018,24 anos,Homem,20
+2018,25 a 29 anos,Homem,48
+2018,25 anos,Homem,9
+2018,26 anos,Homem,17
+2018,27 anos,Homem,7
+2018,28 anos,Homem,6
+2018,29 anos,Homem,9
+2018,30 a 34 anos,Homem,50
+2018,30 anos,Homem,8
+2018,31 anos,Homem,13
+2018,32 anos,Homem,9
+2018,33 anos,Homem,8
+2018,34 anos,Homem,12
+2018,35 a 39 anos,Homem,22
+2018,35 anos,Homem,7
+2018,36 anos,Homem,5
+2018,37 anos,Homem,3
+2018,38 anos,Homem,3
+2018,39 anos,Homem,4
+2018,40 a 44 anos,Homem,6
+2018,40 anos,Homem,1
+2018,41 anos,Homem,2
+2018,42 anos,Homem,2
+2018,43 anos,Homem,1
+2018,44 anos,Homem,
+2018,45 a 49 anos,Homem,
+2018,45 anos,Homem,
+2018,46 anos,Homem,
+2018,47 anos,Homem,
+2018,48 anos,Homem,
+2018,49 anos,Homem,
+2018,50 anos ou mais,Homem,
+2018,Ignorada,Homem,1
+2018,Menos de 15 anos,Mulher,2
+2018,15 a 19 anos,Mulher,45
+2018,15 anos,Mulher,5
+2018,16 anos,Mulher,10
+2018,17 anos,Mulher,12
+2018,18 anos,Mulher,8
+2018,19 anos,Mulher,10
+2018,20 a 24 anos,Mulher,57
+2018,20 anos,Mulher,8
+2018,21 anos,Mulher,16
+2018,22 anos,Mulher,11
+2018,23 anos,Mulher,9
+2018,24 anos,Mulher,13
+2018,25 a 29 anos,Mulher,50
+2018,25 anos,Mulher,10
+2018,26 anos,Mulher,10
+2018,27 anos,Mulher,9
+2018,28 anos,Mulher,13
+2018,29 anos,Mulher,8
+2018,30 a 34 anos,Mulher,37
+2018,30 anos,Mulher,10
+2018,31 anos,Mulher,11
+2018,32 anos,Mulher,6
+2018,33 anos,Mulher,8
+2018,34 anos,Mulher,2
+2018,35 a 39 anos,Mulher,21
+2018,35 anos,Mulher,7
+2018,36 anos,Mulher,5
+2018,37 anos,Mulher,4
+2018,38 anos,Mulher,3
+2018,39 anos,Mulher,2
+2018,40 a 44 anos,Mulher,4
+2018,40 anos,Mulher,2
+2018,41 anos,Mulher,2
+2018,42 anos,Mulher,
+2018,43 anos,Mulher,
+2018,44 anos,Mulher,
+2018,45 a 49 anos,Mulher,
+2018,45 anos,Mulher,
+2018,46 anos,Mulher,
+2018,47 anos,Mulher,
+2018,48 anos,Mulher,
+2018,49 anos,Mulher,
+2018,50 anos ou mais,Mulher,
+2018,Ignorada,Mulher,2
+2019,Menos de 15 anos,Homem,3
+2019,15 a 19 anos,Homem,47
+2019,15 anos,Homem,8
+2019,16 anos,Homem,8
+2019,17 anos,Homem,9
+2019,18 anos,Homem,14
+2019,19 anos,Homem,8
+2019,20 a 24 anos,Homem,56
+2019,20 anos,Homem,17
+2019,21 anos,Homem,5
+2019,22 anos,Homem,9
+2019,23 anos,Homem,12
+2019,24 anos,Homem,13
+2019,25 a 29 anos,Homem,57
+2019,25 anos,Homem,18
+2019,26 anos,Homem,9
+2019,27 anos,Homem,9
+2019,28 anos,Homem,10
+2019,29 anos,Homem,11
+2019,30 a 34 anos,Homem,34
+2019,30 anos,Homem,7
+2019,31 anos,Homem,4
+2019,32 anos,Homem,9
+2019,33 anos,Homem,8
+2019,34 anos,Homem,6
+2019,35 a 39 anos,Homem,27
+2019,35 anos,Homem,4
+2019,36 anos,Homem,7
+2019,37 anos,Homem,6
+2019,38 anos,Homem,3
+2019,39 anos,Homem,7
+2019,40 a 44 anos,Homem,5
+2019,40 anos,Homem,
+2019,41 anos,Homem,3
+2019,42 anos,Homem,2
+2019,43 anos,Homem,
+2019,44 anos,Homem,
+2019,45 a 49 anos,Homem,
+2019,45 anos,Homem,
+2019,46 anos,Homem,
+2019,47 anos,Homem,
+2019,48 anos,Homem,
+2019,49 anos,Homem,
+2019,50 anos ou mais,Homem,
+2019,Ignorada,Homem,
+2019,Menos de 15 anos,Mulher,1
+2019,15 a 19 anos,Mulher,45
+2019,15 anos,Mulher,4
+2019,16 anos,Mulher,11
+2019,17 anos,Mulher,12
+2019,18 anos,Mulher,7
+2019,19 anos,Mulher,11
+2019,20 a 24 anos,Mulher,62
+2019,20 anos,Mulher,12
+2019,21 anos,Mulher,13
+2019,22 anos,Mulher,9
+2019,23 anos,Mulher,16
+2019,24 anos,Mulher,12
+2019,25 a 29 anos,Mulher,60
+2019,25 anos,Mulher,23
+2019,26 anos,Mulher,12
+2019,27 anos,Mulher,8
+2019,28 anos,Mulher,10
+2019,29 anos,Mulher,7
+2019,30 a 34 anos,Mulher,41
+2019,30 anos,Mulher,8
+2019,31 anos,Mulher,8
+2019,32 anos,Mulher,8
+2019,33 anos,Mulher,6
+2019,34 anos,Mulher,11
+2019,35 a 39 anos,Mulher,21
+2019,35 anos,Mulher,7
+2019,36 anos,Mulher,6
+2019,37 anos,Mulher,2
+2019,38 anos,Mulher,3
+2019,39 anos,Mulher,3
+2019,40 a 44 anos,Mulher,8
+2019,40 anos,Mulher,2
+2019,41 anos,Mulher,3
+2019,42 anos,Mulher,2
+2019,43 anos,Mulher,1
+2019,44 anos,Mulher,
+2019,45 a 49 anos,Mulher,
+2019,45 anos,Mulher,
+2019,46 anos,Mulher,
+2019,47 anos,Mulher,
+2019,48 anos,Mulher,
+2019,49 anos,Mulher,
+2019,50 anos ou mais,Mulher,
+2019,Ignorada,Mulher,

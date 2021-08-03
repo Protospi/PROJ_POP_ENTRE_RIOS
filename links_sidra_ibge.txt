@@ -1,0 +1,26 @@
+Links de tabelas IBGE
+
+1 - Tabela de Populacao por sexo, area, idade ano de 1970 até 2010:
+  Marcações: https://sidra.ibge.gov.br/tabela/200#/n6/2910503/v/allxp/p/all/c2/allxt/c1/allxt/c58/allxt/d/v93%200/l/v,p+c2+c1,t+c58
+  Resultados: https://sidra.ibge.gov.br/tabela/200#/n6/2910503/v/allxp/p/all/c2/allxt/c1/allxt/c58/allxt/d/v93%200/l/v,p+c2+c1,t+c58/resultado
+   
+2 - Tabela de Obitos por sexo idade e ano de 2003 até 2019:
+  Marcações: https://sidra.ibge.gov.br/tabela/2684#/n6/2910503/v/allxp/p/all/c255/0/c1836/0/c2/4,5/c260/allxt/c257/0/l/v,p+c255+c1836+c2,t+c260+c257
+  Resultados: https://sidra.ibge.gov.br/tabela/2684#/n6/2910503/v/allxp/p/all/c255/0/c1836/0/c2/4,5/c260/allxt/c257/0/l/v,p+c255+c1836+c2,t+c260+c257/resultado
+  
+3 - Tabela de Nascidos Vivos por sexo idade da mâe e ano de 2003 até 2019:
+  Marcações: https://sidra.ibge.gov.br/tabela/2679#/n6/2910503/v/allxp/p/all/c232/0/c240/allxt/c2/4,5/l/v,p+c232+c240,t+c2
+  Resultados: https://sidra.ibge.gov.br/tabela/2679#/n6/2910503/v/allxp/p/all/c232/0/c240/allxt/c2/4,5/l/v,p+c232+c240,t+c2/resultado
+  
+4 - Tabela de Imigração por area sexo e idade de 2001 até 2010:
+  Marcações: https://sidra.ibge.gov.br/tabela/3181#/n6/2910503/v/allxp/p/all/c308/allxt/c1/allxt/c2/allxt/c58/allxt/d/v1440%200/l/v,p+c308+c1,t+c2+c58
+  Resultados: https://sidra.ibge.gov.br/tabela/3181#/n6/2910503/v/allxp/p/all/c308/allxt/c1/allxt/c2/allxt/c58/allxt/d/v1440%200/l/v,p+c308+c1,t+c2+c58/resultado
+  
+  
+  
+  
+  
+  
+  
+
+  
